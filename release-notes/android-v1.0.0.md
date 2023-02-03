@@ -1,13 +1,3 @@
-## 1.x Versions <i class="fa fa-caret-down"></i>
-
-<div class="fold-panel-start"></div>
-
-> First released: 06-12-2022
-
-### 1.0.0
-
-#### NEW
-
 - Scanflow is an AI scanner on smart devices for data capture & workflow automation Kit that captures multiple data from Barcode, Qrcode, Text, IDs and Safety codes commenced operations in April 2021.
 - This version include 1D barcode, 2D barcode capture, Text Capture and ID Capture .
 - "Scanflow scanner SDK," a user-friendly demo guide software, is now accessible. Run it to get a complete overview of all the demos and sample code.
@@ -22,5 +12,3 @@
 - Read barcodes from different orientations and positions
 - ID Card Scan Feature available for India Aadhaar card & PAN Card with Result callback after front and back side scanned
 - Text Scanner available with Tyre and container configuration with Result callback after scanned
-
-<div class="fold-panel-end"></div>
