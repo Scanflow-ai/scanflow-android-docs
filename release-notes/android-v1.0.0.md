@@ -1,4 +1,4 @@
-### 1.1.0
+### 1.0.0
 
 - Scanflow is an AI scanner on smart devices for data capture & workflow automation Kit that captures multiple data from Barcode, Qrcode, Text, IDs and Safety codes commenced operations in April 2021.
 - This version include 1D barcode, 2D barcode capture, Text Capture and ID Capture .
