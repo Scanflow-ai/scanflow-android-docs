@@ -1,7 +1,5 @@
 ### 2.0.0
 
-#### NEW
-
 - In our latest SDK release, we’ve have added Document scanning features to capture documents and convert to PDF format. 
 - We have provided Option for Auto Document Detection and user can able to crop from the detected Document.
 - Document Scanning includes following options Document Enhancer Filter Auto,Black & White ,Rotate ,Reorder and Delete Document.
