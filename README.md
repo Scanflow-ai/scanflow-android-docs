@@ -77,11 +77,18 @@
 
 ### 2.0.1
 
-#### NEW
-
 - In our latest SDK release, we’ve have added Handwritten Digit OCR under Scanflow Text SDK. 
 - Barcode Batch/Inventory Scanning performance and accuracy improved
 - Tire DOT Scanning performance and accuracy improved
 - Minor Bug Fixes
+
+### 2.0.2
+
+#### NEW
+
+- Added VIN Menu to capture Vin Number (MEC Code) from different Components. ( VIN Plate / VIN Chassis & VIN Sticker )  
+- Tire Universal and DOT Scanning performance and accuracy has been improved. 
+- Barcode SDK Scanning performance and accuracy has been improved
+- Minor Bug fixed 
 
 <div class="fold-panel-end"></div>
